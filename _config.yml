@@ -1,0 +1,11 @@
+name: hushi
+description: "tuesday came and went, like a helicopter over head..."
+url: http://hushi.mobi
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+pygments: true
+timezone: Asia/Shanghai
+encoding: UTF-8
+destination: public
+exclude: ["CNAME", "Rakefile", "README.md", "public", "Guardfile", "Gemfile", "Gemfile.lock"]
