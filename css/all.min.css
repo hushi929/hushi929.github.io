@@ -1,5 +1,5 @@
 .site{margin:5% 15%;color:black;font:16px/170% STFangSong,'Heiti SC','Microsoft YaHei',sans-serif}
-ul {margin: 0;}
+ul {margin: 0;padding: 0;}
 li{list-style:none;text-align:center;}
 article header{display:block;margin-bottom:40px;text-align:center}
 #content h1,#content h2,#content h3,#content h4,#content h5,#content h6{margin:40px 0 20px 0}
