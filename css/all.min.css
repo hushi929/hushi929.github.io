@@ -20,3 +20,12 @@
 .lb-close {
   display: none !important;
 }
+
+footer {
+  margin: 0 auto;
+  clear: both;
+  text-align: center;
+  color: #999;
+  padding: 5px 0;
+  font-size: 10px;
+}
