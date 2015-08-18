@@ -1,15 +1,12 @@
 .paintings {
   margin: 50px auto;
   font: 16px/170% STFangSong,'Heiti SC','Microsoft YaHei',sans-serif;
-}
-
-.lb-close {
-  display: none !important;
+  text-align: center;
 }
 
 .grid {
   width: 25%;
-  margin: 4px;
+  margin: 0 auto;
   padding: 0;
   float: left;
 }
@@ -18,4 +15,8 @@
   width: 90%;
   border: 1px solid #f8f8f8;
   margin-bottom: 10px;
+}
+
+.lb-close {
+  display: none !important;
 }
