@@ -1,6 +1,5 @@
 .site {
-  margin: 5% 15%;
-  color: black;
+  margin: 50px auto;
   font: 16px/170% STFangSong,'Heiti SC','Microsoft YaHei',sans-serif;
 }
 
@@ -9,8 +8,14 @@
 }
 
 .grid {
-  width: 200px;
+  width: 25%;
   margin: 4px;
   padding: 0;
   float: left;
+}
+
+img {
+  width: 90%;
+  border: 1px solid #f8f8f8;
+  margin-bottom: 10px;
 }
