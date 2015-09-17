@@ -6,22 +6,17 @@ body {
 .paintings {
   margin: 0 auto;
   /*font: 16px/180% STFangSong,'Heiti SC','Microsoft YaHei',sans-serif;*/
-  text-align: center;
+  /*text-align: center;*/
 }
 
-.grid {
-  width: 500px;
-  margin: 0 auto;
-  padding: 0;
-  /*float: left;*/
+a {
+  text-decoration: none;
 }
 
 .thumb {
   width: 75px;
-  /*border: 1px solid #f8f8f8;*/
+  height: 75px;
   margin: 10px;
-  /*display: inline;*/
-  float: left;
 }
 
 .lb-close {
