@@ -6,11 +6,17 @@ body {
 .paintings {
   margin: 0 auto;
   /*font: 16px/180% STFangSong,'Heiti SC','Microsoft YaHei',sans-serif;*/
-  /*text-align: center;*/
+  text-align: center;
 }
 
 a {
   text-decoration: none;
+}
+
+.fill {
+  width: 95px;
+  line-height: 0;
+  display:inline-block;
 }
 
 .thumb {
