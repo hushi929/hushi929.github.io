@@ -4,7 +4,7 @@ title:  "可视化工具：Rawgraphs"
 date:   2017-10-30 13:16 +0800
 ---
 
-数据有什么用？数据新闻是明证之一。[Global Investigative Journalism Network](https://gijn.org/)（[全球深度报道网络](https://cn.gijn.org)）上面有许多精彩报道，是通过数据分析结合可视化呈现出来的，严谨、优美、交互性又强，阅读起来令人陶醉。
+数据有什么用？数据新闻是 明证之一。[Global Investigative Journalism Network](https://gijn.org/)（[全球深度报道网络](https://cn.gijn.org)）上面有许多精彩报道，是通过数据分析结合可视化呈现出来的，严谨、优美、交互性又强，阅读起来令人陶醉。
 
 比如今天看到的这一篇《[IT'S NOT SO ISIS](http://labs.densitydesign.org/ddxii/es01/group04/index.html)》，记者选择了 120 个恐怖组织，自 1998 年至 2015 年的活动数据，将其按意识形态派别分类，来描绘这 18 年以来恐怖袭击的演化情况。数据翔实公开，图表直观精美，逐步剖析，引发思考。
 
