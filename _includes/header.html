@@ -2,15 +2,17 @@
 
   <div class="wrapper">
     <a class="site-title" href="{{ site.baseurl }}/">
-      <span>{{ "🕹" | site.title }}</span>
+      <!-- <span>{{ "😿" | site.title }}</span> -->
+      <img src="/files/avatar/banner2.jpeg" width="26px" height="26px">
     </a>
 
     <nav class="site-nav">
-        {% for my_page in site.pages %}
+      <a class="page-link" href="/about"><img src="/files/avatar/banner3.jpeg" width="30px" height="30px"></a>
+<!--         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ "💣" | my_page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
     </nav>
   </div>
 </header>
