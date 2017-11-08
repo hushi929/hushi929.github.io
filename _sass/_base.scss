@@ -260,3 +260,9 @@ pre {
     border: 0 none;
     border-bottom: 1px solid $grey-color;
  }
+
+ iframe {
+    display: block;
+    margin: auto;
+    margin-bottom: $spacing-unit / 2;
+ }
