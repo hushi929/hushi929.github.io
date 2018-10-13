@@ -4,6 +4,17 @@ layout: default
 
 <div class="home">
 
+{% for category in site.categories %}
+  <!-- <h3>{{ category[0] }}</h3> -->
+  {% if category[0] == '画' %}
+    <ul>
+      {% for post in category[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
+<!--
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
@@ -15,5 +26,5 @@ layout: default
     <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}#article">{{ post.title }}</a></li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-
+ -->
 </div>
