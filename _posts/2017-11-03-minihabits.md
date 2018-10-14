@@ -2,7 +2,7 @@
 layout: post
 title:  "迈出第一步的策略"
 date:   2017-11-03 18:35 +0800
-categories: [文]
+categories: [article]
 ---
 
 如何对抗“拖延症”？

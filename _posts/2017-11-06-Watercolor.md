@@ -2,7 +2,7 @@
 layout: post
 title:  "WaterColor 陈年旧画归档"
 date:   2017-11-06 23:20 +0800
-categories: [画]
+categories: [drawing]
 ---
 
 陈年旧画归档
