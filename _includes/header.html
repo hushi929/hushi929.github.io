@@ -2,9 +2,9 @@
 
   <div class="wrapper">
     <!-- <a class="site-title" href="{{ site.baseurl }}/">首页</a> -->
-    <a class="site-title" href="/index">Drawing</a>
-    <a class="site-title" href="/article">Article</a>
-    <a class="site-title" href="/animation">Animation</a>
-    <a class="site-title" href="/about">About</a>
+    <a href="/index" class="site-title {% if page.title == 'drawing' or page.categories[0] == 'drawing' %}selected{% endif %}">Drawing</a>
+    <a href="/article" class="site-title {% if page.title == 'article' or page.categories[0] == 'article' %}selected{% endif %}">Article</a>
+    <a href="/animation" class="site-title {% if page.title == 'animation' or page.categories[0] == 'animation' %}selected{% endif %}">Animation</a>
+    <a href="/about" class="site-title {% if page.title == 'about' %}selected{% endif %}">About</a>
   </div>
 </header>

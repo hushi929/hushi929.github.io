@@ -26,6 +26,11 @@
     margin-right: 2em;
     float: left;
 
+    &.selected {
+        color: $grey-color-dark;
+        font-weight: bold;
+    }
+
     // &,
     // &:visited {
     //     color: $grey-color-dark;

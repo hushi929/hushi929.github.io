@@ -1,10 +1,10 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /about
 ---
 
-Shi's blog and other things. 
+Shi's blog and other things.
 
 - Powered by [Jekyll](http://jekyllrb.com/) and [Github Pages](https://pages.github.com)
 - Jekyll theme: {% include icon-github.html username="placeless/placeless-jekyll-theme" %} 🤗
