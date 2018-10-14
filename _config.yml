@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # github_username:  jekyll
 timezone: Asia/Shanghai
 encoding: UTF-8
+permalink: /:year/:month/:day/:title:output_ext
 
 # social:
 #   name: placeless
