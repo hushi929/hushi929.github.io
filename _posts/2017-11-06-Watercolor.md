@@ -27,6 +27,16 @@ categories: [drawing]
 
 
 
+尼泊尔见到的僧侣
+
+![](https://wx2.sinaimg.cn/mw690/698f3196gy1fl8qsql4b9j22e036okjm.jpg)
+
+
+
+------
+
+
+
 ![](http://wx3.sinaimg.cn/mw690/698f3196ly1fwa0tweuz1j21di0s5kjl.jpg)
 
 
