@@ -41,7 +41,7 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-redirect-from
 
 # paginate: 10
 # paginate_path: "/page:num/"

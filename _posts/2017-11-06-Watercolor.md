@@ -3,6 +3,8 @@ layout: post
 title:  "WaterColor 陈年旧画归档"
 date:   2017-11-06 23:20 +0800
 categories: [drawing]
+redirect_from:
+  - 2017/11/06/Watercolor
 ---
 
 陈年旧画归档
