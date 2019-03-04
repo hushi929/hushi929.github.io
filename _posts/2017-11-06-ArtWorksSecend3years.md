@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2015-2017 Art Works 水彩和插画等其他尝试"
+title:  "2015-2017 ArtWorks"
 date:   2018-01-06 20:39 +0800
 categories: [drawing]
 redirect_from:

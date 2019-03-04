@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2012-2014 WaterColor Drawing 最早的一些水彩画"
+title:  "2012-2014 WaterColor最早的一些水彩画"
 date:   2017-11-06 23:20 +0800
 categories: [drawing]
 redirect_from:

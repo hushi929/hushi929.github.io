@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "2019 watercolor Illustration 新年伊始 "
+title:  "2019 Drawing and 3D models "
 date:   2019-11-12 02:18 +0800
 categories: [drawing]
 redirect_from:
   - 2017/11/12/Project-B-5
 ---
 
-
+一些线稿，3d建模小岛，小幅水彩
 
 iPad Pro上的一些线稿练习
 
@@ -62,6 +62,28 @@ iPad Pro上的一些线稿练习
 6.
 
 ![](http://wx3.sinaimg.cn/mw690/698f3196gy1g0qhhr8yy3j20u00u0guj.jpg)
+
+
+
+
+
+
+
+
+
+1.3D 模型，用blender做的一个小岛
+
+![](http://wx4.sinaimg.cn/large/698f3196gy1g0qoo9s30hg20zk0k0kjy.gif)
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-2018 Drawing 水彩和插画"
+title:  "2017-2018 Drawing水彩和插画"
 date:   2018-08-11 03:15 +0800
 categories: [drawing]
 redirect_from:
