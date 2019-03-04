@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title:  "2019 Drawing and 3D models "
 date:   2019-01-12 02:18 +0800
@@ -91,11 +92,79 @@ iPad Pro上的一些线稿练习
 
 小幅水彩练习
 
-![](http://wx2.sinaimg.cn/mw690/698f3196gy1g0qhpnzkv0j215z0u0qnf.jpg)
 
-![](http://wx4.sinaimg.cn/mw690/698f3196gy1g0qhpqdb55j215z0u0b0e.jpg)
 
-![](http://wx4.sinaimg.cn/mw690/698f3196gy1g0qhpoa9z2j215z0u01kx.jpg)
+1.
 
-![](http://wx4.sinaimg.cn/mw690/698f3196gy1g0qhpo35pej215z0u04n5.jpg)
+![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpr6epz5j20u01404qq.jpg)
+
+
+
+
+
+------
+
+
+
+2.
+
+![](https://wx2.sinaimg.cn/mw690/698f3196gy1g0qpr5lq6kj20u00u07bu.jpg)
+
+
+
+
+
+------
+
+
+
+3.
+
+![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qpvdo0cbj20u0140npd.jpg)
+
+
+
+
+
+------
+
+
+
+4.
+
+![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qpvc2k6uj20u00u0kjl.jpg)
+
+
+
+
+
+------
+
+
+
+5.
+
+![](https://wx4.sinaimg.cn/mw690/698f3196gy1g0qpvdeywhj20u0140qv5.jpg)
+
+
+
+
+
+------
+
+
+
+6.
+
+![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpvdm75sj20u00u0npd.jpg)
+
+
+
+------
+
+
+
+7.
+
+![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpvdsv50j20u0140qv5.jpg)
 
