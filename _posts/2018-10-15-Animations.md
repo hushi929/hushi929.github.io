@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Animations一些试验性的小动画"
-date: 2018-10-15 01:04 +0800
-categories: [animation]
+title:  "Animations一些试验性的小动画"
+date:   2018-10-15 01:04 +0800
+categories: [video]
 redirect_from:
   - 2018/10/15/Project-c
 ---
