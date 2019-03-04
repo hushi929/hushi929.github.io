@@ -7,6 +7,12 @@ redirect_from:
   - 2017/11/09/Project-B-3
 ---
 
+Figure practice and lines practice
+
+线稿练习存档
+
+
+
 ![](https://wx1.sinaimg.cn/mw690/698f3196gy1flb7bumv0pj22e036onpd.jpg)
 
 
