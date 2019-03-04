@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2015-2017 Art Works 水彩和插画等其他尝试"
-date:   2019-01-06 20:39 +0800
+date:   2018-01-06 20:39 +0800
 categories: [drawing]
 redirect_from:
   - 2017/11/06/ProjectB-1
