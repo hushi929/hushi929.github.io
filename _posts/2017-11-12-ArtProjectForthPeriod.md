@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2019 watercolor Illustration 新年伊始的一些画 "
-date:   2017-11-12 02:18 +0800
+title:  "2019 watercolor Illustration 新年伊始 "
+date:   2019-11-12 02:18 +0800
 categories: [drawing]
 redirect_from:
   - 2017/11/12/Project-B-5

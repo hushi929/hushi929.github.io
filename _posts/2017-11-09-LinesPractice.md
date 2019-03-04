@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "figure Practice 人物线稿练习"
+title:  "Figure Practice 线稿练习"
 date:   2017-11-09 02:18 +0800
 categories: [drawing]
 redirect_from:
