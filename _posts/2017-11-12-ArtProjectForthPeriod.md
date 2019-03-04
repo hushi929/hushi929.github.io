@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "2019 Drawing and 3D models "
+title:  "2019 Drawing And 3D Models一月的画和3D建模 "
 date:   2019-01-12 02:18 +0800
 categories: [drawing]
 redirect_from:

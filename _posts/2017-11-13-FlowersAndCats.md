@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flowers And Cats Illustration 猫和花系列"
+title:  "Flowers And Cats Illustration猫和花系列"
 date:   2019-03-01 01:04 +0800
 categories: [drawing]
 redirect_from:
