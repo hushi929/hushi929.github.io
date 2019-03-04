@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一些试验性的小动画"
+title: "Animations一些试验性的小动画"
 date: 2018-10-15 01:04 +0800
 categories: [animation]
 redirect_from:
