@@ -36,12 +36,3 @@ Marco Beltrami 在给电影《Homesman》配音时为了突出电影中“风”
 ![](https://wx2.sinaimg.cn/mw690/698f3196gy1fla111c0ahj20xc0mn1ky.jpg)
 
 
-
----
-
-其他
-
-盛夏的旁晚，太阳已经落山，夕阳的余晖还，天还没完全黑，月亮经浅浅的挂出来，这个时刻很短，山里有微凉的清风。
-
-
-
