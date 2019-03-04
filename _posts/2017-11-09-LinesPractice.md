@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "线稿练习"
+title:  "figure Practice 人物线稿练习"
 date:   2017-11-09 02:18 +0800
 categories: [drawing]
 redirect_from:
@@ -59,7 +59,9 @@ redirect_from:
 
 
 
----
+------
+
+
 
 ![](https://wx2.sinaimg.cn/mw690/698f3196gy1fl9itu8kcaj20qo0qoq60.jpg)
 
@@ -91,32 +93,6 @@ redirect_from:
 
 
 
-
-
-------
-
-
-
-
-
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1fl9wulwsx6j22e036onpd.jpg)
-
-
-
-
-
-------
-
-
-
-
-
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1fl9wunofkqj22e036ohdt.jpg)
-
-
-
-
-
 ------
 
 
@@ -133,14 +109,105 @@ redirect_from:
 
 
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1fldm30ho0sj21kw23wqf0.jpg)
+
+
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1fli8yclmeaj22e02e01kz.jpg)
+
+
+
+
 
 ------
 
 
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1fldm32ud2nj21kw23wk1o.jpg)
+
+
+![](http://wx3.sinaimg.cn/mw690/698f3196gy1fli8yee0gkj22e02e0x6q.jpg)
 
 
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1fldm32ki9rj21kw23wk2c.jpg)
+
+
+------
+
+
+
+
+
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1fli8yhg3nzj22e02e01kz.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g0qmd1t77yj20u0140u0x.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx3.sinaimg.cn/mw690/698f3196gy1g0qmd0rzpbj20u0140qv5.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx3.sinaimg.cn/mw690/698f3196gy1g0qmcztegnj21400u0e81.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g0qmd1kznrj21400u0npd.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g0qmcxaxptj21400u0hdt.jpg)
+
+
+
+
+
+------
+
+
+
+
+
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g0qmd17qvrj21400u0hdt.jpg)
+
+
+
