@@ -21,7 +21,7 @@ Marco Beltrami 在给电影《Homesman》配音时为了突出电影中“风”
 
 浮世绘里的风
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1flapffrfnij21jk12f7ki.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wb3e1wi9j20j60d9djm.jpg)
 
 
 
@@ -33,6 +33,6 @@ Marco Beltrami 在给电影《Homesman》配音时为了突出电影中“风”
 
 另一幅关于风的画
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1fla111c0ahj20xc0mn1ky.jpg)
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g2wb3dyf29j20j60d1tdi.jpg)
 
 
