@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2015-2017ArtWorks 水彩和PS新尝试"
+title:  "2015-2017水彩和PS新尝试"
 date:   2018-01-06 20:39 +0800
 categories: [drawing]
 redirect_from:
