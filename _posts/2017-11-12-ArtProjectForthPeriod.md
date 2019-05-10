@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019 Drawing And 3D Models一月的画和3D建模 "
+title:  "Ipadpo and 3D Models 板绘和3D建模 "
 date:   2019-01-12 02:18 +0800
 categories: [drawing]
 redirect_from:
@@ -13,7 +13,7 @@ iPad Pro上的一些线稿练习
 
 1.
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1fl8qpdppvtj21kw23wdqf.jpg)
+![](http://wx3.sinaimg.cn/mw690/698f3196gy1g2wa32krbdj20j60pk408.jpg)
 
 
 
@@ -23,7 +23,7 @@ iPad Pro上的一些线稿练习
 
 2.静思
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1fl8qpf702gj21kw16ngpx.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32m7goj20j60edmxa.jpg)
 
 
 
@@ -33,7 +33,7 @@ iPad Pro上的一些线稿练习
 
 3.梦中梦
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1flep70brqaj21kw16n7hf.jpg)
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2wa32map6j20j60edwft.jpg)
 
 
 
@@ -43,7 +43,7 @@ iPad Pro上的一些线稿练习
 
 4.猫
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1fl8qpgrlu1j21kw16n49t.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32mit9j20j60edwev.jpg)
 
 ------
 
@@ -51,7 +51,7 @@ iPad Pro上的一些线稿练习
 
 5.
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1fl8qpfw1a6j21kw1kwte9.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32n1jaj20j60j60th.jpg)
 
 
 
@@ -95,7 +95,7 @@ iPad Pro上的一些线稿练习
 
 1.
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpr6epz5j20u01404qq.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32qh02j20j60pkq5t.jpg)
 
 
 
@@ -107,7 +107,7 @@ iPad Pro上的一些线稿练习
 
 2.
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1g0qpr5lq6kj20u00u07bu.jpg)
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2wa32ntocj20j60j6wh2.jpg)
 
 
 
@@ -119,7 +119,7 @@ iPad Pro上的一些线稿练习
 
 3.
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qpvdo0cbj20u0140npd.jpg)
+![](http://wx3.sinaimg.cn/mw690/698f3196gy1g2wa4bno82j20j60pkjt4.jpg)
 
 
 
@@ -131,7 +131,7 @@ iPad Pro上的一些线稿练习
 
 4.
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qpvc2k6uj20u00u0kjl.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32q0z7j20j60j6q5n.jpg)
 
 
 
@@ -143,7 +143,7 @@ iPad Pro上的一些线稿练习
 
 5.
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1g0qpvdeywhj20u0140qv5.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa32q7anj20j60pk0uv.jpg)
 
 
 
@@ -155,7 +155,7 @@ iPad Pro上的一些线稿练习
 
 6.
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpvdm75sj20u00u0npd.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa4bl4emj20j60j6q5s.jpg)
 
 
 
@@ -165,5 +165,5 @@ iPad Pro上的一些线稿练习
 
 7.
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1g0qpvdsv50j20u0140qv5.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wa4bnjhsj20j60pk40i.jpg)
 

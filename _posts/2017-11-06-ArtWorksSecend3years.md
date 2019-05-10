@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2015-2017ArtWorks"
+title:  "2015-2017ArtWorks 水彩新尝试"
 date:   2018-01-06 20:39 +0800
 categories: [drawing]
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qizbpd6vj20nm0dwgmu.jpg)
+![](http://wx1.sinaimg.cn/large/698f3196gy1g2w9cqyaemj20j60bagm7.jpg)
 
 
 
@@ -25,7 +25,7 @@ redirect_from:
 
 2.Watercolor with Photoshop 
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1g0qizbsbv6j219c0qo77a.jpg)
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2w9cr1xx4j20j60ba755.jpg)
 
 
 
@@ -63,7 +63,7 @@ watercolor flowers 水彩花系列，尝试用宣纸
 
 3.小菊花
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1g0qizcc5scj20u0140nls.jpg)
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g2w9cr17npj20j60pk3zv.jpg)
 
 
 
