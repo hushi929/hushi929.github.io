@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Figure Practice线稿练习"
+title:  "Figure Practice 线稿练习"
 date:   2018-08-19 02:18 +0800
 categories: [drawing]
 redirect_from:
@@ -13,7 +13,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1flb7bumv0pj22e036onpd.jpg)
+![](http://wx2.sinaimg.cn/large/698f3196gy1g2wakd3ngbj20j60pkac4.jpg)
 
 
 
@@ -21,7 +21,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1flb7bvv2fvj22e036ohdt.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wakd1gdrj20j60j6ta4.jpg)
 
 
 
@@ -29,7 +29,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1flb5yxmk7sj20qo0zkdk8.jpg)
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g2wakd24ffj20j60pk0up.jpg)
 
 
 
@@ -37,7 +37,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1flb5z81jz3j20qo0zkn1h.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wakd2ehtj20j60pkgnk.jpg)
 
 
 
@@ -45,7 +45,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx4.sinaimg.cn/mw690/698f3196gy1flb5zivgyfj20qo0zkq75.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wakd5xchj20j60pkdhp.jpg)
 
 
 
@@ -53,7 +53,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1flb5zrytw5j20qo0zkae3.jpg)
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2wakcytqgj20j60ryta1.jpg)
 
 
 
@@ -61,7 +61,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1flb5yf4oicj20qo0zktcw.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2wakd339qj20j60pkgne.jpg)
 
 
 
@@ -69,19 +69,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1fl9itu8kcaj20qo0qoq60.jpg)
-
-
-
-
-
-------
-
-
-
-
-
-![](https://wx3.sinaimg.cn/mw690/698f3196gy1fl9iu5fjutj20qo0zkdki.jpg)
+![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2wakd5b3bj20j60pkac4.jpg)
 
 
 
@@ -93,19 +81,7 @@ Figure practice and lines practice
 
 
 
-![](https://wx2.sinaimg.cn/mw690/698f3196gy1fl9wuklkmwj22e036oe81.jpg)
-
-
-
-
-
-------
-
-
-
-
-
-![](https://wx1.sinaimg.cn/mw690/698f3196gy1fl8qku6tr6j20t016aq3s.jpg)
+![](http://wx1.sinaimg.cn/mw690/698f3196gy1g2wakd2rq1j20j60pkq5b.jpg)
 
 
 
