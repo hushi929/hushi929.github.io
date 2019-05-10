@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019 Feb Drawing 猫和人系列"
+title:  "2019FebDrawing 猫和人系列"
 date:   2019-03-04 01:04 +0800
 categories: [drawing]
 redirect_from:

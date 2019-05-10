@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ipadpo and 3D Models 板绘和3D建模 "
+title:  "IpadpoAnd3DModels 板绘和3D建模 "
 date:   2019-01-12 02:18 +0800
 categories: [drawing]
 redirect_from:
