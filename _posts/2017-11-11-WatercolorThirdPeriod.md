@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-2018Drawing 水彩动物插画系列"
+title:  "2017-2018Drawing 水彩动物和场景系列"
 date:   2018-08-11 03:15 +0800
 categories: [drawing]
 redirect_from:

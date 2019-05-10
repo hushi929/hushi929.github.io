@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019 Feb Drawing 色彩明丽板绘插画"
+title:  "2019 Feb Drawing 猫和人系列"
 date:   2019-03-04 01:04 +0800
 categories: [drawing]
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Portraits And Cats Illustration 人和猫系列
 
-
+iPadPro 板绘系列
 
 1.Did you see any fish？
 
