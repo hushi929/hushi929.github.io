@@ -9,7 +9,11 @@ redirect_from:
 
 1.贺卡设计作品
 
-![元旦贺卡-](/Users/shi/Documents/workFolder/元旦贺卡-.jpg)
+![](http://wx2.sinaimg.cn/large/698f3196gy1g2ysnvve9oj20vp0u0dvx.jpg)
+
+
+
+
 
 
 
@@ -17,4 +21,4 @@ redirect_from:
 
 2.如何利用photoshop高效地进行广告物料批量更改，主要是针对百度网盟。
 
-![网盟动作](/Users/shi/Documents/workFolder/网盟动作.jpg)
+![](http://wx4.sinaimg.cn/mw690/698f3196gy1g2ysnvywi9j20u02rue79.jpg)
