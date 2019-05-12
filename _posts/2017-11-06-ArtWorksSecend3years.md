@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2015-2017水彩和PS新尝试"
+title:  "2015-2017 水彩和PS新尝试"
 date:   2018-01-06 20:39 +0800
 categories: [drawing]
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-1.Watercolor with Photoshop 
+1.Watercolor with Photoshop
 
 
 
@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-2.Watercolor with Photoshop 
+2.Watercolor with Photoshop
 
 ![](http://wx2.sinaimg.cn/mw690/698f3196gy1g2w9cr1xx4j20j60ba755.jpg)
 
