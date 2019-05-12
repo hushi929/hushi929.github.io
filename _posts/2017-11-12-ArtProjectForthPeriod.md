@@ -9,6 +9,20 @@ redirect_from:
 
 一些线稿，3d建模小岛，小幅水彩
 
+3D 模型，用blender做的一个小岛
+
+![](http://wx4.sinaimg.cn/large/698f3196gy1g0qoo9s30hg20zk0k0kjy.gif)
+
+
+
+
+
+
+
+
+
+
+
 iPad Pro上的一些线稿练习
 
 1.
@@ -62,20 +76,6 @@ iPad Pro上的一些线稿练习
 6.
 
 ![](http://wx3.sinaimg.cn/mw690/698f3196gy1g0qhhr8yy3j20u00u0guj.jpg)
-
-
-
-
-
-
-
-
-
-1.3D 模型，用blender做的一个小岛
-
-![](http://wx4.sinaimg.cn/large/698f3196gy1g0qoo9s30hg20zk0k0kjy.gif)
-
-
 
 
 
